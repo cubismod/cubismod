@@ -1,6 +1,9 @@
-## Ryan Wallace (he/him)
-### Site Reliability Engineer at Red Hat
+I'm Ryan Wallace, a member of the [AppSRE Team @ Red Hat](https://github.com/app-sre/), working closely with [Quay.io](https://github.com/quay/). 
+Day to day, I work on running reliable services for my team and other Red Hatters built on key open-source technologies like Kubernetes, Prometheus, and GraphQL.
 
-Howdy, I'm an SRE working on the [AppSRE team](https://github.com/app-sre) at Red Hat. 
+![Photo of Ryan Wallace in Stowe, Vermont](./IMG_5678.JPG)
 
-Day to day I am working on the tooling for our OpenShift based application platform, letting other teams at Red Hat run their services in a cloud-native way.
+Outside of work I like to spend my time bicycling, working on home automation projects,
+and advocating for livable streets and human rights for all in my local community.
+
+Check out my [website](https://ryanwallace.cloud/map/).
