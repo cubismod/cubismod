@@ -7,3 +7,9 @@ Outside of work I like to spend my time bicycling, working on home automation pr
 and advocating for livable streets and human rights for all in my local community.
 
 Check out my [website](https://ryanwallace.cloud/map/).
+
+### Stats
+
+[![cubismod's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubismod&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubismod&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
